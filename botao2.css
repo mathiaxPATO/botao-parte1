@@ -1,0 +1,11 @@
+.save-button {
+    background-color: #f00;
+    color: #ffff;
+    border: nome;
+    padding: 100px 200px;
+    font-size: 160px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+    border-radius: 5%;
+}
